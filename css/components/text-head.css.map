@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAC;EACP,QAAQ,EAAE,QAAQ;EAClB,aAAa,EAAE,IAAI;CActB;;AAbI,AAAD,iBAAQ,CAAC;EACL,KAAK,EAAE,OAAO;EACd,SAAS,EAAE,IAAI;EACf,MAAM,EAAE,iBAAiB;EACzB,UAAU,EAAE,MAAM;CACrB;;AAEA,AAAD,uBAAc,CAAC;EACX,KAAK,EAAE,OAAO;EACd,SAAS,EAAE,IAAI;EACf,MAAM,EAAE,gBAAgB;EACxB,UAAU,EAAE,MAAM;CACrB",
+    "sources": [
+        "text-head.scss"
+    ],
+    "names": [],
+    "file": "text-head.css"
+}

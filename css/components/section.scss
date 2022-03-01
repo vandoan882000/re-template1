@@ -1,0 +1,43 @@
+.page-section {
+    position: relative;
+    margin-top: 50px
+    
+}
+.page-section__bg {
+    position: absolute;
+    z-index: -1;
+    top: 190px;
+    left: 0;
+    width: 40%;
+    height: 410px;
+    margin-right: 15px;
+    background-color: #ccc;   
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.page-section__bg--left{
+    position: absolute;
+    z-index: -1;
+    top: 130px;
+    left: 0;
+    width: 40%;
+    height: 550px;
+    margin-right: 15px;
+    background-color: #ccc;   
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.page-section__bg--all{
+    position: absolute;
+    z-index: -1;
+    top: 30px;
+    left: 20px;
+    right: 20px;
+    width: 97%;
+    height: 100%;
+    margin-right: 15px;
+    background-color: #ccc;   
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}

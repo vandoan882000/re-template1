@@ -1,0 +1,55 @@
+.slider{
+    padding-top: 55px;
+    padding-left: 27px;
+    position: relative;
+    &__description {
+        color: #707070;
+        font-weight: 500;
+        margin-bottom: 36px;
+        letter-spacing: 0.5px;
+        line-height: 25px;
+    }
+    &__author {
+        color: #2E2A41;
+        font-size: 14px;
+        font-weight: 800;
+    }
+    &__oval {
+        width: 90px;
+        height: 90px;
+        border-radius: 45px;
+        background-color: #FDF1E7;
+        margin-bottom: 20px;
+    }
+    &__vuong {
+        width: 86px;
+        height: 62px;
+        border: 10px solid #5E68F9;
+        position: absolute;
+        top: 60px; 
+        left: 85px;
+    }
+}
+
+.slider-ovalselect {
+    display: flex;
+    padding: 57px 0px 20px 0px;
+    align-items: center;
+    &__selected {
+        width: 12px;
+        height: 12px;
+        border-radius: 6px;
+        background-color: #ccc;
+        margin-right: 15px;
+        cursor: pointer;
+        &--active {
+            width: 16px;
+            height: 16px;
+            border-radius: 8px;
+            background-color: #5E68F9;
+            margin-right: 15px;
+            cursor: pointer;
+        }
+    }
+    
+}

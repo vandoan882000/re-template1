@@ -1,0 +1,29 @@
+.text-box {
+  position: relative;
+}
+
+.text-box__oval {
+  position: absolute;
+  width: 79px;
+  height: 79px;
+  top: -10px;
+  left: -10px;
+  z-index: -1;
+  background-color: #ccc;
+  border-radius: 39.5px;
+}
+
+.text-box__title {
+  color: #2E2A41;
+  font-size: 20px;
+  margin-bottom: 25px;
+}
+
+.text-box__description {
+  font-size: 15px;
+  color: #7E7FA0;
+  font-weight: 15;
+  letter-spacing: 0.5px;
+  line-height: 25px;
+}
+/*# sourceMappingURL=textbox.css.map */
